@@ -2,7 +2,7 @@
 <html lang="ja">
 <head>
 <meta charset="UTF-8">
-<title>Lesson 1</title>
+<title>Lesson</title>
 </head>
 <body>
 <form action="display.php" method="GET">
