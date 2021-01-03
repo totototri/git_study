@@ -3,7 +3,6 @@
 <head>
 <meta charset="UTF-8">
 <title>Lesson d1</title>
-vdfbs
 </head>
 <body>
 <form action="display.php" method="GET">
