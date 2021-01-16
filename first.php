@@ -7,7 +7,8 @@
 <body>
 <form action="display.php" method="GET">
 <input type="text" name="name">
-<input type="submit" value="送信">
+<input type="submit" value="送信">sgagagdsag
+
 </form>
 </body>
 </html>
