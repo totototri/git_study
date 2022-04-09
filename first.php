@@ -3,8 +3,6 @@
 <head>
 <meta charset="UTF-8">
 <title>Lesson </title>
- hennkou
-変更を加えてみた、。ぴえん
 </head>
 <body>
 <form action="display.php" method="GET">
